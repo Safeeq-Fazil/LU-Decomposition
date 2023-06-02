@@ -55,7 +55,11 @@ print(res)
 ```
 
 ## Output:
-![lu decomposition]()
+## find the L and U matrix:
+![exp 5](https://github.com/Safeeq-Fazil/LU-Decomposition/assets/118680361/ed3f722a-e595-4a96-b0b0-171bcfb9f298)
+
+## find the LU Decomposition of a matrix:
+![lu decomposiyion b](https://github.com/Safeeq-Fazil/LU-Decomposition/assets/118680361/b34baa9c-bc2c-4f5d-8bbf-e18e585f1998)
 
 
 ## Result:
