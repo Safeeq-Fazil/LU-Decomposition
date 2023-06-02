@@ -27,10 +27,6 @@ Developed by: Safeeq Fazil.A
 RegisterNumber: 212222240086
 */
 
-'''Program to find L and U matrix using LU decomposition.
-Developed by: Safeeq Fazil.A
-RegisterNumber: 212222240086
-'''
 import numpy as np
 from scipy.linalg import lu
 arr=np.array(eval(input()))
@@ -45,10 +41,7 @@ Program to find the LU Decomposition of a matrix.
 Developed by: Safeeq Fazil.A
 RegisterNumber: 212222240086
 */
-'''Program to solve a matrix using LU decomposition.
-Developed by: Safeeq Fazil.A 
-RegisterNumber: 212222240086
-'''
+
 
 # To print X matrix (solution to the equations)
 import numpy as np
